@@ -1,0 +1,2 @@
+# ctype
+killing pc kernel
